@@ -5,4 +5,4 @@ Drum Kit using HTML, CSS & JS (without framework). Learn some JS fundamentals by
 
 Website: https://courses.wesbos.com
 
-Drum Kit in JS - Source File: 
+Drum Kit in JS - Source File: https://github.com/Djeeb/JavaScript-Drum-Kit
